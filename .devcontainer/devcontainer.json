@@ -2,7 +2,6 @@
         "name": "demo",
         "dockerFile": "Dockerfile",
         "settings": {
-          "terminal.integrated.defaultProfile.linux": "/bin/bash",
           "files.encoding": "utf8",
           "files.eol": "\n",
           "editor.tabSize": 2,
